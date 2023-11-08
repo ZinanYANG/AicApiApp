@@ -38,7 +38,7 @@
   <li>Incorporated copyright details and resource attributions in a separate activity within the app.</li>
 </ul>
 
-<p>Key Skills Gained: </p>
+<p>Key Skills : </p>
 
 <ul>
   <li>Android app development, API integration, UI/UX design, JSON parsing, asynchronous data handling, and cross-device compatibility.</li>
